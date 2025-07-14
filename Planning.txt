@@ -1,3 +1,4 @@
 Planning Pengembangan diri tim SOD
   - Belajar minimal 1 jam sehari
+    # Belajar dari WPU Unpas
   - Ikut certification terkait software development
