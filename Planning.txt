@@ -3,7 +3,10 @@ Rencana Belajar SOD
 - Javascript
   *ES6
   *Framework Javascript
+    #vue
 - Struktur data dasar
 - PHP Framework
+   #Laravel
 - Interview
 - VLogs
+- Python
