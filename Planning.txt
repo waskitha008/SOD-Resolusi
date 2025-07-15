@@ -1,4 +1,9 @@
-Planning Pengembangan diri tim SOD
-  - Belajar minimal 1 jam sehari
-    # Belajar dari WPU Unpas
-  - Ikut certification terkait software development
+Rencana Belajar SOD
+
+- Javascript
+  *ES6
+  *Framework Javascript
+- Struktur data dasar
+- PHP Framework
+- Interview
+- VLogs
